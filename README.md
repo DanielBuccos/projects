@@ -1,2 +1,2 @@
 # projects
-Code dump for projects and things I've built
+Code dump for things I have built
