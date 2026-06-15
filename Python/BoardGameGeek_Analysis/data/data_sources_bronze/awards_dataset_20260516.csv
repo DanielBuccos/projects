@@ -1,0 +1,467 @@
+,year,award,category,game_name
+0,2025,American Tabletop Awards,Early Gamers,Captain Flip
+1,2024,American Tabletop Awards,Early Gamers,Blob Party
+2,2023,American Tabletop Awards,Early Gamers,boop.
+3,2022,American Tabletop Awards,Early Gamers,Happy City
+4,2021,American Tabletop Awards,Early Gamers,Abandon All Artichokes
+5,2020,American Tabletop Awards,Early Gamers,Draftosaurus
+6,2019,American Tabletop Awards,Early Gamers,Catch the Moon
+7,2025,American Tabletop Awards,Casual Games,The Gang
+8,2024,American Tabletop Awards,Casual Games,Sea Salt & Paper
+9,2023,American Tabletop Awards,Casual Games,Turing Machine
+10,2022,American Tabletop Awards,Casual Games,Cubitos
+11,2021,American Tabletop Awards,Casual Games,The Crew: The Quest for Planet Nine
+12,2020,American Tabletop Awards,Casual Games,ShipShape
+13,2019,American Tabletop Awards,Casual Games,The Quacks of Quedlinburg
+14,2025,American Tabletop Awards,Strategy Games,Let’s Go! To Japan
+15,2024,American Tabletop Awards,Strategy Games,Thunder Road: Vendetta
+16,2023,American Tabletop Awards,Strategy Games,Planet Unknown
+17,2022,American Tabletop Awards,Strategy Games,Cascadia
+18,2021,American Tabletop Awards,Strategy Games,Calico
+19,2020,American Tabletop Awards,Strategy Games,Wingspan
+20,2019,American Tabletop Awards,Strategy Games,Chronicles of Crime
+21,2025,American Tabletop Awards,Complex Games,Fromage
+22,2024,American Tabletop Awards,Complex Games,The White Castle
+23,2023,American Tabletop Awards,Complex Games,Carnegie
+24,2022,American Tabletop Awards,Complex Games,Lost Ruins of Arnak
+25,2021,American Tabletop Awards,Complex Games,Dominations: Road to Civilization
+26,2020,American Tabletop Awards,Complex Games,The Taverns of Tiefenthal
+27,2019,American Tabletop Awards,Complex Games,Root
+28,2023,As d'Or / Golden Ace,As d'Or Jeu de l'année,Akropolis
+29,2022,As d'Or / Golden Ace,As d'Or Jeu de l'année,7 Wonders: Architects
+30,2021,As d'Or / Golden Ace,As d'Or Jeu de l'année,MicroMacro: Crime City
+31,2020,As d'Or / Golden Ace,As d'Or Jeu de l'année,Oriflamme
+32,2019,As d'Or / Golden Ace,As d'Or Jeu de l'année,The Mind
+33,2018,As d'Or / Golden Ace,As d'Or Jeu de l'année,Azul
+34,2017,As d'Or / Golden Ace,As d'Or Jeu de l'année,Unlock!
+35,2016,As d'Or / Golden Ace,As d'Or Jeu de l'année,Mysterium
+36,2015,As d'Or / Golden Ace,As d'Or Jeu de l'année,Colt Express
+37,2015,As d'Or / Golden Ace,As d'Or Jeu de l'année Grand Prix,Five Tribes
+38,2015,As d'Or / Golden Ace,As d'Or Jeu de l'année Enfant,La Chasse aux Gigamons
+39,2015,As d'Or / Golden Ace,As d'Or Jeu de l'année Prix du Jury,Loony Quest
+40,2023,Board Game Quest Awards,General,Thunder Road: Vendetta
+41,2022,Board Game Quest Awards,General,Foundations of Rome
+42,2021,Board Game Quest Awards,General,Oath: Chronicles of Empire and Exile
+43,2020,Board Game Quest Awards,General,Lost Ruins of Arnak
+44,2019,Board Game Quest Awards,General,Wingspan
+45,2018,Board Game Quest Awards,General,Root
+46,2017,Board Game Quest Awards,General,Clans of Caledonia
+47,2016,Board Game Quest Awards,General,Terraforming Mars
+48,2015,Board Game Quest Awards,General,Pandemic Legacy
+49,2014,Board Game Quest Awards,General,Five Tribes
+50,2013,Board Game Quest Awards,General,Nations
+51,2024,Deutscher Spiele Preis,General,Forest Shuffle
+52,2023,Deutscher Spiele Preis,General,Planet Unknown
+53,2022,Deutscher Spiele Preis,General,Ark Nova
+54,2021,Deutscher Spiele Preis,General,Lost Ruins Of Arnak
+55,2020,Deutscher Spiele Preis,General,The Crew
+56,2019,Deutscher Spiele Preis,General,Wingspan
+57,2018,Deutscher Spiele Preis,General,Azul
+58,2017,Deutscher Spiele Preis,General,Terraforming Mars
+59,2016,Deutscher Spiele Preis,General,Mombasa
+60,2015,Deutscher Spiele Preis,General,The Voyages of Marco Polo
+61,2014,Deutscher Spiele Preis,General,Russian Railroads
+62,2013,Deutscher Spiele Preis,General,Terra Mystica
+63,2012,Deutscher Spiele Preis,General,Village
+64,2011,Deutscher Spiele Preis,General,7 Wonders
+65,2010,Deutscher Spiele Preis,General,Fresco
+66,2009,Deutscher Spiele Preis,General,Dominion
+67,2008,Deutscher Spiele Preis,General,Agricola
+68,2007,Deutscher Spiele Preis,General,The Pillars of the Earth
+69,2006,Deutscher Spiele Preis,General,Caylus
+70,2005,Deutscher Spiele Preis,General,Louis XIV
+71,2004,Deutscher Spiele Preis,General,Saint Petersburg
+72,2003,Deutscher Spiele Preis,General,Amun-Re
+73,2002,Deutscher Spiele Preis,General,Puerto Rico
+74,2001,Deutscher Spiele Preis,General,Carcassonne
+75,2000,Deutscher Spiele Preis,General,Taj Mahal
+76,1999,Deutscher Spiele Preis,General,Tikal
+77,1998,Deutscher Spiele Preis,General,Tigris and Euphrates
+78,1997,Deutscher Spiele Preis,General,Löwenherz
+79,1996,Deutscher Spiele Preis,General,El Grande
+80,1995,Deutscher Spiele Preis,General,The Settlers of Catan
+81,1994,Deutscher Spiele Preis,General,6 nimmt!
+82,1993,Deutscher Spiele Preis,General,Modern Art
+83,1992,Deutscher Spiele Preis,General,Flying Dutchman
+84,1991,Deutscher Spiele Preis,General,Master Labyrinth
+85,1990,Deutscher Spiele Preis,General,Hoity Toity
+86,2020,Diamond Climber Awards,Game of the Year,Calico
+87,2020,Diamond Climber Awards,Best Heavy Strategy / Euro Game,On Mars
+88,2020,Diamond Climber Awards,Best Two Player Game,The Shores of Tripoli
+89,2020,Diamond Climber Awards,Best Solo Game,Under Falling Skies
+90,2020,Diamond Climber Awards,Best Co-op Game,Gloomhaven: Jaws of the Lion
+91,2020,Diamond Climber Awards,Best Family Game,Calico
+92,2020,Diamond Climber Awards,Best Light Game,Village Green
+93,2020,Diamond Climber Awards,Best Artwork,On Mars
+94,2019,Diamond Climber Awards,Game of the Year,Wingspan
+95,2019,Diamond Climber Awards,Best Gateway Game,Tiny Towns
+96,2019,Diamond Climber Awards,Best Family Game,Tiny Towns
+97,2019,Diamond Climber Awards,Best Artwork,Wingspan
+98,2019,Diamond Climber Awards,Best Two Player Game,SHŌBU
+99,2019,Diamond Climber Awards,Best Thematic Game,Horrified
+100,2019,Diamond Climber Awards,Best RPG,Star Crossed
+101,2019,Diamond Climber Awards,Best Light Game,Point Salad
+102,2019,Diamond Climber Awards,Best Euro Game,Paladins of the West Kingdom
+103,2019,Diamond Climber Awards,Best Co-op Game,Horrified
+104,2018,Diamond Climber Awards,Game of the Year,Root
+105,2018,Diamond Climber Awards,Best Gateway Game,Reef
+106,2018,Diamond Climber Awards,Best Thematic Game,Who Goes There?
+107,2018,Diamond Climber Awards,Best Euro Game,Coimbra
+108,2018,Diamond Climber Awards,Best RPG,Kids on Bikes
+109,2018,Diamond Climber Awards,Best Filler Game,The Mind
+110,2018,Diamond Climber Awards,Best Family Game,Drop It
+111,2018,Diamond Climber Awards,Best Co-op Game,Chronicles of Crime
+112,2018,Diamond Climber Awards,Best Artwork,Root
+113,2023,Jogo do Ano,General,Carnegie
+114,2022,Jogo do Ano,General,Imperial Steam
+115,2021,Jogo do Ano,General,Imperial Struggle
+116,2020,Jogo do Ano,General,Barrage
+117,2019,Jogo do Ano,General,Root
+118,2018,Jogo do Ano,General,Lisboa
+119,2017,Jogo do Ano,General,Great Western Trail
+120,2016,Jogo do Ano,General,Mombasa
+121,2015,Jogo do Ano,General,La Granja
+122,2014,Jogo do Ano,General,Nations
+123,2012,Jogo do Ano,General,Keyflower
+124,2011,Jogo do Ano,General,Ora et Labora
+125,2010,Jogo do Ano,General,Troyes
+126,2009,Jogo do Ano,General,Maria
+127,2008,Jogo do Ano,General,Agricola
+128,2007,Jogo do Ano,General,Brass
+129,2006,Jogo do Ano,General,Imperial
+130,2014,Games magazine,General,Garden Dice/The Card Expansion
+131,2013,Games magazine,General,Trajan
+132,2012,Games magazine,General,Tikal II: The Lost Temple
+133,2011,Games magazine,General,Jump Gate
+134,2010,Games magazine,General,Small World
+135,2009,Games magazine,General,Tzaar
+136,2008,Games magazine,General,Pillars of the Earth
+137,2007,Games magazine,General,Vegas Showdown
+138,2006,Games magazine,General,Australia
+139,2005,Games magazine,General,BuyWord
+140,2004,Games magazine,General,New England
+141,2003,Games magazine,General,DVONN
+142,2002,Games magazine,General,Evo
+143,2001,Games magazine,General,Aladdin's Dragons
+144,2000,Games magazine,General,Torres
+145,1999,Games magazine,General,Fossil
+146,1998,Games magazine,General,Quoridor
+147,1997,Games magazine,General,25 Words or Less
+148,1995,Games magazine,General,Sharp Shooters
+149,1994,Games magazine,General,Myst
+150,1993,Games magazine,General,Inklings
+151,1992,Games magazine,General,Pipeline
+152,1991,Games magazine,General,Trumpet
+153,2022,Golden Geek Award (2020 onwards),light,Cat in the Box: Deluxe Edition
+154,2021,Golden Geek Award (2020 onwards),light,Cascadia
+155,2020,Golden Geek Award (2020 onwards),light,MicroMacro: Crime City
+156,2022,Golden Geek Award (2020 onwards),medium,Heat: Pedal to the Metal
+157,2021,Golden Geek Award (2020 onwards),medium,The Crew: Mission Deep Sea
+158,2020,Golden Geek Award (2020 onwards),medium,Lost Ruins of Arnak
+159,2022,Golden Geek Award (2020 onwards),heavy,Carnegie
+160,2021,Golden Geek Award (2020 onwards),heavy,Ark Nova
+161,2020,Golden Geek Award (2020 onwards),heavy,Gloomhaven: Jaws of the Lion
+162,2019,Golden Geek Award (Till 2019),General,Wingspan
+163,2018,Golden Geek Award (Till 2019),General,Root
+164,2017,Golden Geek Award (Till 2019),General,Gloomhaven
+165,2016,Golden Geek Award (Till 2019),General,Scythe
+166,2015,Golden Geek Award (Till 2019),General,Pandemic Legacy: Season 1
+167,2014,Golden Geek Award (Till 2019),General,Splendor
+168,2013,Golden Geek Award (Till 2019),General,Terra Mystica
+169,2012,Golden Geek Award (Till 2019),General,Eclipse
+170,2011,Golden Geek Award (Till 2019),General,Dominant Species
+171,2010,Golden Geek Award (Till 2019),General,Hansa Teutonica
+172,2009,Golden Geek Award (Till 2019),General,Dominion
+173,2008,Golden Geek Award (Till 2019),General,Agricola
+174,2007,Golden Geek Award (Till 2019),General,Shogun
+175,2006,Golden Geek Award (Till 2019),General,Caylus
+176,2022,Le Diamant d'Or,diamant d'or,Ark Nova
+177,2021,Le Diamant d'Or,diamant d'or,Beyond the Sun
+178,2020,Le Diamant d'Or,diamant d'or,Crystal Palace
+179,2019,Le Diamant d'Or,diamant d'or,Underwater Cities
+180,2018,Le Diamant d'Or,diamant d'or,Project Gaia
+181,2017,Le Diamant d'Or,diamant d'or,Great Western Trail
+182,2022,Le Diamant d'Or,diamant d'argent,Coffee Traders
+183,2021,Le Diamant d'Or,diamant d'argent,Praga Caput Regni
+184,2020,Le Diamant d'Or,diamant d'argent,On Mars
+185,2019,Le Diamant d'Or,diamant d'argent,Newton
+186,2018,Le Diamant d'Or,diamant d'argent,Lisboa
+187,2017,Le Diamant d'Or,diamant d'argent,Terraforming Mars
+188,2022,Le Diamant d'Or,diamant de bronze,Imperial Steam
+189,2021,Le Diamant d'Or,diamant de bronze,Bonfire
+190,2020,Le Diamant d'Or,diamant de bronze,Barrage
+191,2019,Le Diamant d'Or,diamant de bronze,Prehistory
+192,2018,Le Diamant d'Or,diamant de bronze,Spirit Island
+193,2017,Le Diamant d'Or,diamant de bronze,Yokohama
+194,2023,Mensa Select,General,Trekking Through History
+195,2023,Mensa Select,General,Mille Fiori
+196,2023,Mensa Select,General,Gartenbau
+197,2023,Mensa Select,General,Akropolis
+198,2023,Mensa Select,General,boop
+199,2022,Mensa Select,General,Atheneum: Mystic Library
+200,2022,Mensa Select,General,Genotype: A Mendelian Genetics Game
+201,2022,Mensa Select,General,Life of a Chameleon
+202,2022,Mensa Select,General,Miyabi
+203,2022,Mensa Select,General,Shifting Stones
+204,2021,Mensa Select,General,Bermuda Pirates
+205,2021,Mensa Select,General,ClipCut Parks
+206,2021,Mensa Select,General,Gates of Delirium
+207,2021,Mensa Select,General,Gridopolis
+208,2021,Mensa Select,General,Ishtar: Gardens of Babylon
+209,2021,Mensa Select,General,Kodama 3D
+210,2021,Mensa Select,General,Mental Blocks
+211,2021,Mensa Select,General,Stripes
+212,2021,Mensa Select,General,Village Pillage
+213,2021,Mensa Select,General,WHO KNOWS WHO
+214,2019,Mensa Select,General,Architects of the West Kingdom
+215,2019,Mensa Select,General,Gizmos
+216,2019,Mensa Select,General,Gunkimono
+217,2019,Mensa Select,General,Planet
+218,2019,Mensa Select,General,Victorian Masterminds
+219,2015,Mensa Select,General,Trekking the National Parks
+220,2015,Mensa Select,General,Letter Tycoon
+221,2015,Mensa Select,General,Lanterns: The Harvest Festival
+222,2015,Mensa Select,General,Dragonwood :A Game of Dice & Daring
+223,2015,Mensa Select,General,Castles of Mad King Ludwig
+224,2014,Mensa Select,General,Euphoria
+225,2014,Mensa Select,General,Gravwell: Escape from the 9th Dimension
+226,2014,Mensa Select,General,Pyramix
+227,2014,Mensa Select,General,Qwixx
+228,2014,Mensa Select,General,The Duke
+229,2013,Mensa Select,General,Forbidden Desert
+230,2013,Mensa Select,General,Ghooost!
+231,2013,Mensa Select,General,Kerflip
+232,2013,Mensa Select,General,Kulami
+233,2013,Mensa Select,General,Suburbia
+234,2012,Mensa Select,General,Coerceo
+235,2012,Mensa Select,General,Iota
+236,2012,Mensa Select,General,Mine Shift
+237,2012,Mensa Select,General,Snake Oil
+238,2012,Mensa Select,General,Tetris Link
+239,2011,Mensa Select,General,Instructures
+240,2011,Mensa Select,General,Pastiche
+241,2011,Mensa Select,General,Pirate vs Pirate
+242,2011,Mensa Select,General,Stomple
+243,2011,Mensa Select,General,Uncle Chestnut's Table Gype
+244,2010,Mensa Select,General,Anomia
+245,2010,Mensa Select,General,Dizios
+246,2010,Mensa Select,General,Forbidden Island
+247,2010,Mensa Select,General,Word on the Street
+248,2010,Mensa Select,General,Yikerz!
+249,2009,Mensa Select,General,Cornerstone
+250,2009,Mensa Select,General,Dominion
+251,2009,Mensa Select,General,Marrakech
+252,2009,Mensa Select,General,Stratum
+253,2009,Mensa Select,General,Tic-Tac-Ku
+254,2008,Mensa Select,General,AmuseAmaze
+255,2008,Mensa Select,General,Eye Know
+256,2008,Mensa Select,General,Jumbulaya
+257,2008,Mensa Select,General,Pixel
+258,2008,Mensa Select,General,Tiki Topple
+259,2007,Mensa Select,General,Gemlok
+260,2007,Mensa Select,General,Gheos
+261,2007,Mensa Select,General,Hit or Miss
+262,2007,Mensa Select,General,Qwirkle
+263,2007,Mensa Select,General,Skullduggery
+264,2006,Mensa Select,General,Deflexion (aka Khet)
+265,2006,Mensa Select,General,Hive
+266,2006,Mensa Select,General,Keesdrow
+267,2006,Mensa Select,General,Pentago
+268,2006,Mensa Select,General,Wits & Wagers
+269,2005,Mensa Select,General,DaVinci's Challenge
+270,2005,Mensa Select,General,Ingenious
+271,2005,Mensa Select,General,Loot
+272,2005,Mensa Select,General,Niagara
+273,2005,Mensa Select,General,Zendo
+274,2004,Mensa Select,General,10 Days in Africa/USA
+275,2004,Mensa Select,General,Basari
+276,2004,Mensa Select,General,The Bridges of Shangri-La
+277,2004,Mensa Select,General,Rumis
+278,2004,Mensa Select,General,Yinsh
+279,2003,Mensa Select,General,Blokus
+280,2003,Mensa Select,General,Cityscape
+281,2003,Mensa Select,General,Fire & Ice
+282,2003,Mensa Select,General,Octiles
+283,2003,Mensa Select,General,TransAmerica
+284,2002,Mensa Select,General,Curses!
+285,2002,Mensa Select,General,Dvonn
+286,2002,Mensa Select,General,The Legend of Landlock
+287,2002,Mensa Select,General,Muggins!
+288,2002,Mensa Select,General,Smart Mouth
+289,2001,Mensa Select,General,Brainstrain
+290,2001,Mensa Select,General,Dao
+291,2001,Mensa Select,General,Metro
+292,2001,Mensa Select,General,Shapes Up!
+293,2001,Mensa Select,General,The Poll Game
+294,2000,Mensa Select,General,3 Stones
+295,2000,Mensa Select,General,Finish Lines
+296,2000,Mensa Select,General,Imaginiff
+297,2000,Mensa Select,General,Time's Up!
+298,2000,Mensa Select,General,Zertz
+299,1999,Mensa Select,General,Apples to Apples
+300,1999,Mensa Select,General,Bollox (Bōku)
+301,1999,Mensa Select,General,Doubles Wild
+302,1999,Mensa Select,General,Fluxx
+303,1999,Mensa Select,General,Quiddler
+304,1998,Mensa Select,General,Avalam
+305,1998,Mensa Select,General,Cube Checkers
+306,1998,Mensa Select,General,Kram
+307,1998,Mensa Select,General,Spy Alley
+308,1998,Mensa Select,General,Wadjet
+309,1997,Mensa Select,General,Hattrick!
+310,1997,Mensa Select,General,Quoridor
+311,1997,Mensa Select,General,Rush Hour
+312,1997,Mensa Select,General,Sagarian
+313,1997,Mensa Select,General,Stops
+314,1996,Mensa Select,General,Pirateer
+315,1996,Mensa Select,General,Quadwrangle
+316,1996,Mensa Select,General,Rat-a-Tat Cat
+317,1996,Mensa Select,General,6 nimmt!
+318,1996,Mensa Select,General,Touche'
+319,1995,Mensa Select,General,Continuo
+320,1995,Mensa Select,General,Duo
+321,1995,Mensa Select,General,Quixo
+322,1995,Mensa Select,General,The Great Dalmuti
+323,1995,Mensa Select,General,Word Spin Scramble
+324,1994,Mensa Select,General,Char
+325,1994,Mensa Select,General,Chung Toi
+326,1994,Mensa Select,General,Down Fall
+327,1994,Mensa Select,General,Magic: The Gathering
+328,1994,Mensa Select,General,Pyraos (aka Pylos)
+329,1993,Mensa Select,General,Farook
+330,1993,Mensa Select,General,Inklings
+331,1993,Mensa Select,General,Overturn
+332,1993,Mensa Select,General,Quadrature
+333,1993,Mensa Select,General,Quarto!
+334,1992,Mensa Select,General,Kinesis
+335,1992,Mensa Select,General,Q4
+336,1992,Mensa Select,General,Terrace
+337,1992,Mensa Select,General,Traverse
+338,1992,Mensa Select,General,Why Not?
+339,1991,Mensa Select,General,Clue: The Great Museum Caper
+340,1991,Mensa Select,General,Lapis
+341,1991,Mensa Select,General,Master Labyrinth
+342,1991,Mensa Select,General,Pyramis
+343,1991,Mensa Select,General,Set
+344,1990,Mensa Select,General,Abalone
+345,1990,Mensa Select,General,Scattergories
+346,1990,Mensa Select,General,Taboo
+347,1990,Mensa Select,General,TriBond
+348,1990,Mensa Select,General,Trivial Pursuit: Genus Edition
+349,2023,Premio JdA,General,SCOUT
+350,2022,Premio JdA,General,Hibachi
+351,2021,Premio JdA,General,Kingdom Builder
+352,2020,Premio JdA,General,La Tripulación
+353,2019,Premio JdA,General,El Dorado
+354,2018,Premio JdA,General,Azul
+355,2017,Premio JdA,General,Dice Forge
+356,2016,Premio JdA,General,Pandemic Legacy
+357,2015,Premio JdA,General,Colt Express
+358,2014,Premio JdA,General,Jaipur
+359,2013,Premio JdA,General,Las Leyendas de Andor
+360,2012,Premio JdA,General,Santiago de Cuba
+361,2011,Premio JdA,General,La Isla Prohibida
+362,2010,Premio JdA,General,Fauna
+363,2009,Premio JdA,General,Dixit
+364,2008,Premio JdA,General,Agricola
+365,2007,Premio JdA,General,Los pilares de la Tierra
+366,2006,Premio JdA,General,Exploradores
+367,2005,Premio JdA,General,¡Aventureros al tren!
+368,2025,Spiel des Jahres,General,Bomb Busters
+369,2024,Spiel des Jahres,General,Sky Team
+370,2023,Spiel des Jahres,General,Dorfromantik
+371,2022,Spiel des Jahres,General,Cascadia
+372,2021,Spiel des Jahres,General,Micromacro: Crime City
+373,2020,Spiel des Jahres,General,Pictures
+374,2019,Spiel des Jahres,General,Just One
+375,2018,Spiel des Jahres,General,Azul
+376,2017,Spiel des Jahres,General,Kingdomino
+377,2016,Spiel des Jahres,General,Codenames
+378,2015,Spiel des Jahres,General,Colt Express
+379,2014,Spiel des Jahres,General,Camel Up
+380,2013,Spiel des Jahres,General,Hanabi
+381,2012,Spiel des Jahres,General,Kingdom Builder
+382,2011,Spiel des Jahres,General,Qwirkle
+383,2010,Spiel des Jahres,General,Dixit
+384,2009,Spiel des Jahres,General,Dominion
+385,2008,Spiel des Jahres,General,Keltis
+386,2007,Spiel des Jahres,General,Zooloretto
+387,2006,Spiel des Jahres,General,Thurn and Taxis
+388,2005,Spiel des Jahres,General,Niagara
+389,2004,Spiel des Jahres,General,Ticket to Ride
+390,2003,Spiel des Jahres,General,Alhambra
+391,2002,Spiel des Jahres,General,Villa Paletti
+392,2001,Spiel des Jahres,General,Carcassonne
+393,2000,Spiel des Jahres,General,Torres
+394,1999,Spiel des Jahres,General,Tikal
+395,1998,Spiel des Jahres,General,Elfenland
+396,1997,Spiel des Jahres,General,Mississippi Queen
+397,1996,Spiel des Jahres,General,El Grande
+398,1995,Spiel des Jahres,General,The Settlers of Catan
+399,1994,Spiel des Jahres,General,Manhattan
+400,1993,Spiel des Jahres,General,Call My Bluff
+401,1992,Spiel des Jahres,General,Um Reifenbreite
+402,1991,Spiel des Jahres,General,Drunter und Drüber
+403,1990,Spiel des Jahres,General,Hoity Toity
+404,1989,Spiel des Jahres,General,Café International
+405,1988,Spiel des Jahres,General,Barbarossa
+406,1987,Spiel des Jahres,General,Auf Achse
+407,1986,Spiel des Jahres,General,Top Secret Spies
+408,1985,Spiel des Jahres,General,Sherlock Holmes: Consulting Detective
+409,1984,Spiel des Jahres,General,Railway Rivals
+410,1983,Spiel des Jahres,General,Scotland Yard
+411,1982,Spiel des Jahres,General,Enchanted Forest
+412,1981,Spiel des Jahres,General,Focus
+413,1980,Spiel des Jahres,General,Rummikub
+414,1979,Spiel des Jahres,General,Hare and Tortoise
+415,2025,Spiel des Jahre,Kennerspiel des Jahres,Endeavor: Deep Sea
+416,2024,Spiel des Jahre,Kennerspiel des Jahres,Daybreak
+417,2023,Spiel des Jahre,Kennerspiel des Jahres,Challengers!
+418,2022,Spiel des Jahre,Kennerspiel des Jahres,Living Forest
+419,2021,Spiel des Jahre,Kennerspiel des Jahres,Paleo
+420,2019,Spiel des Jahre,Kennerspiel des Jahres,Wingspan
+421,2018,Spiel des Jahre,Kennerspiel des Jahres,Die Quacksalber von Quedlinburg
+422,2017,Spiel des Jahre,Kennerspiel des Jahres,EXIT: The Game
+423,2016,Spiel des Jahre,Kennerspiel des Jahres,Isle of Skye: From Chieftain to King
+424,2015,Spiel des Jahre,Kennerspiel des Jahres,Broom Service
+425,2014,Spiel des Jahre,Kennerspiel des Jahres,Istanbul
+426,2013,Spiel des Jahre,Kennerspiel des Jahres,Legends of Andor
+427,2012,Spiel des Jahre,Kennerspiel des Jahres,Village
+428,2011,Spiel des Jahre,Kennerspiel des Jahres,7 Wonders
+429,2025,Spiel des Jahre,Kinderspiel des Jahres,Top the cake
+430,2024,Spiel des Jahre,Kinderspiel des Jahres,The Magic Keys
+431,2023,Spiel des Jahre,Kinderspiel des Jahres,Mysterium Kids
+432,2022,Spiel des Jahre,Kinderspiel des Jahres,Magic Mountain
+433,2021,Spiel des Jahre,Kinderspiel des Jahres,Dragomino
+434,2020,Spiel des Jahre,Kinderspiel des Jahres,Speedy Roll
+435,2019,Spiel des Jahre,Kinderspiel des Jahres,Valley of the Vikings
+436,2018,Spiel des Jahre,Kinderspiel des Jahres,Funkelschatz
+437,2017,Spiel des Jahre,Kinderspiel des Jahres,Ice Cool
+438,2016,Spiel des Jahre,Kinderspiel des Jahres,My First Stone Age
+439,2015,Spiel des Jahre,Kinderspiel des Jahres,Spinderella
+440,2014,Spiel des Jahre,Kinderspiel des Jahres,"Geister, Geister, Schatzsuchmeister!"
+441,2013,Spiel des Jahre,Kinderspiel des Jahres,Der verzauberte Turm
+442,2012,Spiel des Jahre,Kinderspiel des Jahres,Schnappt Hubi!
+443,2011,Spiel des Jahre,Kinderspiel des Jahres,Da ist der Wurm drin
+444,2010,Spiel des Jahre,Kinderspiel des Jahres,Diego Drachenzahn
+445,2009,Spiel des Jahre,Kinderspiel des Jahres,Das magische Labyrinth
+446,2008,Spiel des Jahre,Kinderspiel des Jahres,Wer war's?
+447,2007,Spiel des Jahre,Kinderspiel des Jahres,Beppo der Bock
+448,2006,Spiel des Jahre,Kinderspiel des Jahres,Der schwarze Pirat
+449,2005,Spiel des Jahre,Kinderspiel des Jahres,Das Kleine Gespenst
+450,2004,Spiel des Jahre,Kinderspiel des Jahres,Spooky Stairs
+451,2003,Spiel des Jahre,Kinderspiel des Jahres,Viva Topo!
+452,2002,Spiel des Jahre,Kinderspiel des Jahres,Maskenball der Käfer
+453,2001,Spiel des Jahre,Kinderspiel des Jahres,Klondike
+454,2000,Spiel des Jahre,Kinderspiel des Jahres,Arbos
+455,1999,Spiel des Jahre,Kinderspiel des Jahres,Kayanak
+456,1998,Spiel des Jahre,Kinderspiel des Jahres,Chicken Cha Cha Cha
+457,1997,Spiel des Jahre,Kinderspiel des Jahres,Leinen los!
+458,1996,Spiel des Jahre,Kinderspiel des Jahres,Vier zu mir!
+459,1995,Spiel des Jahre,Kinderspiel des Jahres,Karambolage
+460,1994,Spiel des Jahre,Kinderspiel des Jahres,Loopin' Louie
+461,1993,Spiel des Jahre,Kinderspiel des Jahres,Ringel-Rangel
+462,1992,Spiel des Jahre,Kinderspiel des Jahres,Galloping Pigs
+463,1991,Spiel des Jahre,Kinderspiel des Jahres,Piraten-Abenteuer
+464,1990,Spiel des Jahre,Kinderspiel des Jahres,My Haunted Castle
+465,1989,Spiel des Jahre,Kinderspiel des Jahres,Gute Freunde
