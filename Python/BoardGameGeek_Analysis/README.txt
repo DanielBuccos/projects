@@ -3,7 +3,7 @@
 
 This repository contains our group project for the University of Michigan's Master of Applied Data Science (MADS) program. The project focuses on analyzing board game success using multiple datasets, including BoardGameGeek (BGG), Google Trends, Wikipedia, and sales data.
 
-> ⚠️ Note: Due to file size limitations, the raw datasets are not included in this repository. However, all data collection, caching, and processing pipelines are preserved so results can be reproduced.
+> ⚠️ Note: Due to file size limitations, many datasets are not included in this repository. However, all data collection, caching, and processing pipelines are preserved so results can be reproduced.
 
 ---
 
