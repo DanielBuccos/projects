@@ -1,3 +1,7 @@
+Group project for my University of Michigan's MADS Milestone 1. Credits to Chi-Hsun Fan and Sam Meisel for their hard work on the project as well. Their Linkedin's are as follows:
+https://www.linkedin.com/in/joye-fan-038b27216/
+https://www.linkedin.com/in/meiselsa/
+
 Most of our data is cached already, so there is no need to rerun the following four notebooks.
 These were left just for reference on how we pulled/cached our datasets.
 
